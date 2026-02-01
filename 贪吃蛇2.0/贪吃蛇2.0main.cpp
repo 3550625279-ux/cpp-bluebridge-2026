@@ -1,6 +1,6 @@
 #include "global.h"
  
-SnakeNode *head=NULL;
+SnakeNode *head=nullptr;
 SnakeNode *tail=NULL;
 SnakeNode *record_head=NULL;
 SnakeNode *record_tail=NULL;
